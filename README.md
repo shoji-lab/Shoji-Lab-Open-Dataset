@@ -1,4 +1,4 @@
-# Shoji Open Dataset
+# Shoji Lab Open Dataset
 
 This repository serves as a **central index of publicly available datasets**
 released by members of the Shoji Laboratory, Shizuoka University.
