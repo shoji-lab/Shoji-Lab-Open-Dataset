@@ -20,6 +20,11 @@ The goal of this collection is to promote:
   along with ranking ground truth for similarity-based LoRA retrieval.  
   → https://github.com/shoji-lab/LoRA_triplet_dataset_Kanada
 
+- **OOTM dataset (Oe, 2026)**  
+  A paired dataset (v1) of specific situations and outfit descriptions for Japanese women's fashion,
+  generated via a Vision-Language Model.
+  → https://github.com/shoji-lab/OOTM_dataset_Oe_v1
+  
 *(More datasets will be added as they become publicly available.)*
 
 ---
